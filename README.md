@@ -80,6 +80,8 @@ Decision Tree Classifier: Accuracy of 91.41%
 
 Random Forest Classifier: Accuracy of 92.23%, improved to 92.37% with hyperparameter tuning
 
+<img width="585" alt="image" src="https://github.com/user-attachments/assets/c080fa99-9dbf-4cef-8b4c-b4c14eb6d0cf">
+
 ## Performance Summary
 The Decision Tree and Random Forest classifiers demonstrated exceptional performance in predicting income.
 
